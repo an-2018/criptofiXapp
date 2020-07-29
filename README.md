@@ -1,2 +1,1 @@
-# criptofiXapp
-Created with CodeSandbox
+# CryptoFix
